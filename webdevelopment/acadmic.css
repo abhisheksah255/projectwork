@@ -1,0 +1,43 @@
+CSS part: 
+
+h1 {
+
+    text-align:right;
+    font-family: 'Times New Roman', sans-serif;
+    }
+    
+    
+    table {
+    
+    width: 100%;
+    
+    border-collapse: collapse;
+    
+    }
+    
+    
+    th {
+    
+    height: 50px;
+    background-color: rgb(49, 187, 164);
+    
+    }
+    
+    th,
+    
+    td {
+    
+    padding: 15px;
+    
+    border: 1px solid black; font-size: larger;
+    text-align: center; cursor: pointer;
+    }
+    
+    
+    tr:nth-child(even) { background-color: #ffffff;
+    }
+    tr:hover {
+
+        background-color: rgb(213, 168, 78);
+        
+        }

@@ -1,0 +1,56 @@
+body {
+  background-image: url("Images/c.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+.main {
+  width: 855px;
+  height: 600px;
+  background-size: 40%;
+  background-color: rgb(255, 255, 255);
+  padding-top: centre;
+  padding-right: centre;
+  margin: auto;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  margin-top: 4cm;
+  text-align: center;
+}
+#hsign {
+  margin-top: 10mm;
+  color: rgb(5, 161, 128);
+}
+#social {
+  text-align: center;
+}
+#facebook {
+  padding-left: 20px;
+}
+#name,
+#email,
+#Pass {
+  width: 400px;
+  height: 30px;
+  margin-top: 20px;
+  border-style: none;
+  border-bottom-style: double;
+  border-bottom: 1px solid black;
+  border-radius: 0px;
+}
+#signup,#signin{
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-top:40px;
+  margin-left: 30px;
+  margin-right: 40px;
+  width: 3cm;
+  height: 1.2cm;
+  background: rgb(5, 161, 128);
+  border: none;
+  border-radius:20px;
+}

@@ -1,0 +1,49 @@
+CSS PART: 
+
+h1 { text-align: center;
+
+    
+    }
+   
+    img {
+    
+    margin-left: 35%; margin-right: auto; height: 35%;
+    width: 35%;
+    
+    }
+     
+    table {
+    
+    width: 100%;
+    
+    border-collapse: collapse;
+
+    }
+    
+    
+    th {
+        height: 50px;
+
+        background-color: rgb(133, 170, 163);
+        
+        }
+        
+        th,
+        
+        td {
+        
+        padding: 15px;
+        
+        border: 1px solid rgb(255, 255, 255); font-size: larger;
+        text-align: center; cursor: pointer;
+        }
+       
+        tr:nth-child(even) { background-color: #f2f2f2;
+        }
+        
+         tr:hover {
+        
+        background-color: rgb(207, 176, 115);
+        
+        }
+          
